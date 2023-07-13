@@ -6,7 +6,7 @@ This repo contains an implementation of the famous donut.c program by Andy Sloan
 
 ## 📚 Description
 
-The donut.c program was originally written by Andy Sloane in 2006. It uses basic 3D math to render a torus (donut shape) and project it onto a 2D ASCII art canvas. By spinning the torus around various axes, an animated donut is produced. 
+The donut.c program was originally written 2006. It uses basic 3D math to render a torus (donut shape) and project it onto a 2D ASCII art canvas. By spinning the torus around various axes, an animated donut is produced. 
 
 The code is a remarkable example of compact algorithms and optimizations. In just a few hundred characters of C code, Sloane is able to render surprisingly complex 3D graphics using only basic trigonometry and linear algebra.
 
